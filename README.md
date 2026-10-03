@@ -1,4 +1,4 @@
-# <!-- Library name, e.g. cppviz --> : A C++ Data Visualization Library
+# <!-- Library name, e.g. cppviz --> INTRIVIZ : A C++ Data Visualization Library
 
 <!-- One line, typed by you: what this project is. -->
 
