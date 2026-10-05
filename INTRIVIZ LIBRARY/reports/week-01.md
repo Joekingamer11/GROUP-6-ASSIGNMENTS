@@ -21,8 +21,8 @@
 - Week 1 coding (5 to 11 October), one segment per member (numbers follow the members table in the README):
   - Member 1: `CMakeLists.txt` checks, `src/version.cpp`, umbrella header
   - Member 2: `types.hpp`, `error.hpp`
-  - Member 3: `Dataset` class
-  - Member 4 ANNA KAGEMULO MTABAZI: CSV loader
+  - Member Nakibuule Maria Liz: `Dataset` class
+  - Member 4: CSV loader
   - Member 5: basic statistics
   - Member 6: `Scale` and `LinearScale`
   - Member 7: `Canvas`
