@@ -15,6 +15,7 @@
 ## Challenges/Blockers
 - "Before the beginning of the week" can be read two ways for the weekly reports. We are submitting each report on the Sunday before the week it covers.
 - Most of us are beginners with C++ and Git, so the first week includes practice with branches and pull requests.
+- Managing 10 different contributors through pull requests will make it hard to avoid merge conflicts.
 
 ## Next Week
 - Week 1 coding (5 to 11 October), one segment per member (numbers follow the members table in the README):
