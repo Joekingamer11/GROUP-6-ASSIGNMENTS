@@ -21,7 +21,7 @@
   - Member 1: `CMakeLists.txt` checks, `src/version.cpp`, umbrella header
   - Member 2: `types.hpp`, `error.hpp`
   - Member 3: `Dataset` class
-  - Member 4: CSV loader
+  - Member 4 ANNA KAGEMULO MTABAZI: CSV loader
   - Member 5: basic statistics
   - Member 6: `Scale` and `LinearScale`
   - Member 7: `Canvas`
