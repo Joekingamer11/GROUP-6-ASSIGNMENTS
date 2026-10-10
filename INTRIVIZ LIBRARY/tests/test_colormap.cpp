@@ -40,7 +40,7 @@ int main() {
     // 3. Categorical palette ("deep")
     auto deep = categorical_palette("deep");
     CHECK_EQ(deep.size(), static_cast<std::size_t>(10));
-    CHECK_EQ(deep, color_from_hex("#4C72B0"));
+    CHECK_EQ(deep[0], color_from_hex("#4C72B0"));
     CHECK_THROWS(categorical_palette("unknown_palette"), InvalidArgument);
 
     // 4. Colormap class

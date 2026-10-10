@@ -10,8 +10,8 @@ namespace cppviz {
 
 Color color_from_hex(const std::string& hex) {
     std::string s = hex;
-    if (!s.empty() && s == '#') {
-        s = s.substr(1);
+    if (!s.empty() && s.front() == '#') {
+        s.erase(0, 1);
     }
     if (s.length() != 6) {
         throw InvalidArgument("Hex color string must be exactly 6 hex digits, got: " + hex);
